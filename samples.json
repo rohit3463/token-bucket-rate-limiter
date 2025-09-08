@@ -1,0 +1,32 @@
+[
+  {
+    "customerId": "json_1",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "createdAt": "2024-03-26T12:00:00Z"
+  },
+  {
+    "customerId": "json_2", 
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "createdAt": "2024-03-26T12:01:00Z"
+  },
+  {
+    "customerId": "json_3",
+    "name": "Carol Davis",
+    "email": "carol.davis@example.com", 
+    "createdAt": "2024-03-26T12:02:00Z"
+  },
+  {
+    "customerId": "json_4",
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "createdAt": "2024-03-26T12:03:00Z"
+  },
+  {
+    "customerId": "json_5",
+    "name": "Eva Brown",
+    "email": "eva.brown@example.com",
+    "createdAt": "2024-03-26T12:04:00Z"
+  }
+]

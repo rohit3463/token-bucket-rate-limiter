@@ -1,0 +1,419 @@
+{
+  "records": [
+    {
+      "customerId": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "createdAt": "2024-03-26T12:00:00Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "createdAt": "2024-03-26T12:00:15Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Bob Wilson",
+      "email": "bob@example.com",
+      "createdAt": "2024-03-26T12:00:30Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "createdAt": "2024-03-26T12:00:45Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "createdAt": "2024-03-26T12:00:44Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "createdAt": "2024-03-26T12:00:49Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "createdAt": "2024-03-26T12:00:19Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "createdAt": "2024-03-26T12:00:48Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "createdAt": "2024-03-26T12:00:46Z"
+    },
+   {
+      "customerId": "1",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "createdAt": "2024-03-26T12:01:15Z"
+    },
+   {
+      "customerId": "1",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "createdAt": "2024-03-26T12:01:58Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Charlie Davis",
+      "email": "charlie@example.com",
+      "createdAt": "2024-03-26T12:01:00Z"
+    },
+    {
+      "customerId": "1",
+      "name": "Eve Wilson",
+      "email": "eve@example.com",
+      "createdAt": "2024-03-26T12:01:15Z"
+    },
+    {
+      "customerId": "2",
+      "name": "Frank Miller",
+      "email": "invalid.email",
+      "createdAt": "2024-03-26T12:02:00Z"
+    },
+    {
+      "customerId": "2",
+      "name": "Frank Miller",
+      "email": "frank.miller@gmail.com",
+      "createdAt": "2024-03-26T12:02:00Z"
+    },
+    {
+      "customerId": "3",
+      "name": "Grace Lee",
+      "email": "grace@example.com",
+      "createdAt": "2024-03-26T12:02:30Z"
+    },
+    {
+      "customerId": "",
+      "name": "Henry Ford",
+      "email": "henry@example.com",
+      "createdAt": "2024-03-26T12:03:00Z"
+    },
+    {
+      "customerId": "12345",
+      "name": "Ivy Chen",
+      "email": "ivy@example.com",
+      "createdAt": "2024-03-26T12:04:00Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Jack Brown",
+      "email": "jack@example.com",
+      "createdAt": "2024-03-26T12:05:00Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Kate Wilson",
+      "email": "kate@example.com",
+      "createdAt": "2024-03-26T12:05:15Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Liam Davis",
+      "email": "liam@example.com",
+      "createdAt": "2024-03-26T12:05:30Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Mia Smith",
+      "email": "mia@example.com",
+      "createdAt": "2024-03-26T12:05:45Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Noah Johnson",
+      "email": "noah@example.com",
+      "createdAt": "2024-03-26T12:06:00Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Olivia Brown",
+      "email": "olivia@example.com",
+      "createdAt": "2024-03-26T12:06:15Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Olivia Brown",
+      "email": "olivia@example.com",
+      "createdAt": "2024-03-26T12:06:15Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Kate Wils",
+      "email": "kate@example.com",
+      "createdAt": "2024-03-26T12:05:11Z"
+    },
+    {
+      "customerId": "4",
+      "name": "Kate Wils",
+      "email": "kate@example.com",
+      "createdAt": "2024-03-26T12:07:09Z"
+    },
+    {
+      "customerId": "5",
+      "name": "Peter Wilson",
+      "email": "peter@example",
+      "createdAt": "2024-03-26T12:07:00Z"
+    },
+    {
+      "customerId": "6",
+      "name": "Quinn Davis",
+      "email": "quinn@example.com",
+      "createdAt": "2024-03-26T12:08:00Z"
+    },
+    {
+      "customerId": "7",
+      "name": "Rachel Smith",
+      "email": "rachel@example.com",
+      "createdAt": "2024-03-26T12:09:00Z"
+    },
+    {
+      "customerId": "8",
+      "name": "Sam Wilson",
+      "email": "sam@example.com",
+      "createdAt": "2024-03-26T12:10:00Z"
+    },
+    {
+      "customerId": "9",
+      "name": "Tom Brown",
+      "email": "tom@example.com",
+      "createdAt": "2024-03-26T12:11:00Z"
+    },
+    {
+      "customerId": "9",
+      "name": "Tom Brown",
+      "email": "tom@example.com",
+      "createdAt": "2024-03-26T12:11:15Z"
+    },
+    {
+      "customerId": "9",
+      "name": "Tom Brown",
+      "email": "tom@example.com",
+      "createdAt": "2024-03-26T12:11:30Z"
+    },
+    {
+      "customerId": "9",
+      "name": "Tom Brown",
+      "email": "tom@example.com",
+      "createdAt": "2024-03-26T12:11:45Z"
+    },
+    {
+      "customerId": "9",
+      "name": "Tom Brown",
+      "email": "tom@example.com",
+      "createdAt": "2024-03-26T12:12:00Z"
+    },
+    {
+      "customerId": "9",
+      "name": "Tom Brown",
+      "email": "tom@example.com",
+      "createdAt": "2024-03-26T12:12:15Z"
+    },
+    {
+      "customerId": "10",
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com",
+      "createdAt": "2024-03-26T12:13:00Z"
+    },
+    {
+      "customerId": "10",
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com",
+      "createdAt": "2024-03-26T12:13:15Z"
+    },
+    {
+      "customerId": "10",
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com",
+      "createdAt": "2024-03-26T12:13:30Z"
+    },
+    {
+      "customerId": "10",
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com",
+      "createdAt": "2024-03-26T12:13:45Z"
+    },
+    {
+      "customerId": "10",
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com",
+      "createdAt": "2024-03-26T12:14:00Z"
+    },
+    {
+      "customerId": "10",
+      "name": "Sarah Wilson",
+      "email": "sarah@example.com",
+      "createdAt": "2024-03-26T12:14:15Z"
+    },
+    {
+      "customerId": "11",
+      "name": "Mike Johnson",
+      "email": "mike@",
+      "createdAt": "2024-03-26T12:15:00Z"
+    },
+    {
+      "customerId": "12",
+      "name": "Lisa Brown",
+      "email": "@example.com",
+      "createdAt": "2024-03-26T12:16:00Z"
+    },
+    {
+      "customerId": "13",
+      "name": "David Wilson",
+      "email": "david@example..com",
+      "createdAt": "2024-03-26T12:17:00Z"
+    },
+    {
+      "customerId": "14",
+      "name": "Emma Davis",
+      "email": "emma@example.com",
+      "createdAt": "2024-03-26T12:17:00Z"
+    },
+    {
+      "customerId": "15",
+      "name": "James Wilson",
+      "email": "james@example.com",
+      "createdAt": "2024-03-26"
+    },
+    {
+      "customerId": "16",
+      "name": "Mary Brown",
+      "email": "mary@example.com",
+      "createdAt": "2024-13-45T12:00:00Z"
+    },
+    {
+      "customerId": "abc123",
+      "name": "Anna Smith",
+      "email": "anna@example.com",
+      "createdAt": "2024-03-26T12:21:00Z"
+    },
+    {
+      "customerId": "17",
+      "name": "Chris Davis",
+      "email": "chris@example.com",
+      "createdAt": "2024-03-26T12:22:00Z"
+    },
+    {
+      "customerId": "17",
+      "name": "Chris Davis",
+      "email": "chris@example.com",
+      "createdAt": "2024-03-26T12:22:15Z"
+    },
+    {
+      "customerId": "17",
+      "name": "Chris Davis",
+      "email": "chris@example.com",
+      "createdAt": "2024-03-26T12:22:30Z"
+    },
+    {
+      "customerId": "17",
+      "name": "Chris Davis",
+      "email": "chris@example.com",
+      "createdAt": "2024-03-26T12:22:45Z"
+    },
+    {
+      "customerId": "17",
+      "name": "Chris Davis",
+      "email": "chris@example.com",
+      "createdAt": "2024-03-26T12:23:00Z"
+    },
+    {
+      "customerId": "17",
+      "name": "Chris Davis",
+      "email": "chris@example.com",
+      "createdAt": "2024-03-26T12:23:15Z"
+    },
+    {
+      "customerId": "18",
+      "name": "Daniel Wilson",
+      "email": "daniel@example.com",
+      "createdAt": "2024-03-26T12:24:00Z"
+    },
+    {
+      "customerId": "18",
+      "name": "Daniel Wilson",
+      "email": "daniel@example.com",
+      "createdAt": "2024-03-26T12:24:15Z"
+    },
+    {
+      "customerId": "18",
+      "name": "Daniel Wilson",
+      "email": "daniel@example.com",
+      "createdAt": "2024-03-26T12:24:30Z"
+    },
+    {
+      "customerId": "18",
+      "name": "Daniel Wilson",
+      "email": "daniel@example.com",
+      "createdAt": "2024-03-26T12:24:45Z"
+    },
+    {
+      "customerId": "18",
+      "name": "Daniel Wilson",
+      "email": "daniel@example.com",
+      "createdAt": "2024-03-26T12:25:00Z"
+    },
+    {
+      "customerId": "18",
+      "name": "Daniel Wilson",
+      "email": "daniel@example.com",
+      "createdAt": "2024-03-26T12:25:15Z"
+    },
+    {
+      "customerId": "19",
+      "name": "Emily Brown",
+      "email": "emily@example.com",
+      "createdAt": "2024-03-26T12:26:00Z"
+    },
+    {
+      "customerId": "20",
+      "name": "Frank Wilson",
+      "email": "frank@example.com",
+      "createdAt": "2024-03-26T12:27:00Z"
+    },
+    {
+      "customerId": "21",
+      "name": "Invalid Email 1",
+      "email": "test.email.com",
+      "createdAt": "2024-03-26T12:28:00Z"
+    },
+    {
+      "customerId": "22",
+      "name": "Invalid Email 2",
+      "email": "test.@.com",
+      "createdAt": "2024-03-26T12:28:00Z"
+    },
+    {
+      "customerId": "25",
+      "name": "Invalid Email 5",
+      "email": "test@domain.123",
+      "createdAt": "2024-03-26T12:32:00Z"
+    },
+    {
+      "customerId": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "createdAt": "2024-03-26T12:32:00Z"
+    },  
+    {
+      "customerId": "26",
+      "name": " ",
+      "email": "foo@bar.com",
+      "createdAt": "2024-03-26T12:32:00Z"
+    }     
+        
+  ]
+}
